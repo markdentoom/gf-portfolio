@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Static site I created to serve as my girlfriend's portfolio; built using plain old html, css, js, and bootstrap. Check it out on http://www.clairemhallado.com/
 
-Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
