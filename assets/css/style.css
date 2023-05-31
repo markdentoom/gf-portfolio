@@ -583,6 +583,10 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  cursor: pointer;
+  align-content: center;
+  display: grid;
+  height: 240px;
 }
 
 .portfolio .portfolio-wrap::before {
