@@ -586,7 +586,7 @@ section {
   cursor: pointer;
   align-content: center;
   display: grid;
-  height: 240px;
+  height: 250px;
 }
 
 .portfolio .portfolio-wrap::before {
